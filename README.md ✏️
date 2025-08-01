@@ -1,0 +1,29 @@
+# 📊 Netflix Data Analysis Project
+
+This project analyzes the **Netflix Movies and TV Shows** dataset from Kaggle. It provides visual insights into content type trends, genres, countries, and content ratings.
+
+## 📁 Files Included
+
+- `Netflix_Report_Abhishek_Singh.pdf` – Final report with analysis & graphs
+- `netflix_titles.csv` – Source dataset
+- `graphs/` – All generated visualizations (PNG format)
+
+## 🔍 Key Insights
+
+- Distribution of Movies vs TV Shows
+- Content added to Netflix over the years
+- Most frequent genres
+- Top content-producing countries
+- Most common content ratings
+
+## 🛠️ Tools Used
+
+- Python (Pandas, Matplotlib, Seaborn)
+- Jupyter Notebook
+- FPDF (for PDF report)
+
+---
+
+**Author:** Abhishek Singh  
+**Date:** August 2025  
+**Dataset Source:** [Netflix Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
